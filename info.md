@@ -1,0 +1,3 @@
+npm install accesscontrol@latest bcrypt@latest body-parser@latest express@latest jsonwebtoken@latest mailgen@latest mongodb@latest mongoose@latest mongoose-aggregate-paginate-v2@latest nodemailer@latest validator@latest
+
+npm install axios@latest bootstrap@latest drft-js@latest draft-js-export-html@latest formik@latest html-to-draftjs@latest moment@latest react-bootstrap@latest  react-cookies@latest react-draft-wysiwyg@latest react-google-font-loader@latest react-moment@latest react-redux@latest react-router-bootstrap@latest react-router-dom@latest react-toastify@latest redux@latest redux-thunk@latest yup@latest

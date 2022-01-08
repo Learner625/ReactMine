@@ -1,0 +1,3 @@
+nodemon dont restart:
+type npm i nodmon -g
+npm i nodemon --save-dev
